@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+    /* background-repeat: no-repeat;
+    background-position: right; */
+}
+
+#headshot {
+    width: 30%;
+    height: auto;
+}
+
+.bnb {
+    text-align: center;
+}
+
+.jumbotron {
+    display: inline-block;
+    background: rgba(255, 255, 255,  0.5);
+}
+
+.image-link {
+    height: 48px;
+    width: auto;
+}
+

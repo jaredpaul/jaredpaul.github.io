@@ -1,8 +1,10 @@
-body {
+/* body {
     background-size: cover;
-    /* background-repeat: no-repeat;
-    background-position: right; */
-}
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100%;
+} */
+
 
 #headshot {
     width: 30%;

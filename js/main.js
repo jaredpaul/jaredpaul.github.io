@@ -14,5 +14,9 @@ $(document).ready(function() {
         $('body').css('background-image', 'url("images/warwick_background.jpg")');
         $('body').css('background-repeat', "no-repeat");
         $('body').css('background-size', "100%");
+    } else {
+        $('body').css('background-image', 'url("images/warwick_vertical")');
+        $('body').css('background-repeat', "no-repeat");
+        $('body').css('background-size', "100%");
     }
 });
